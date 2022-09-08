@@ -65,11 +65,11 @@ def video_left():
     image.kill()
     
     
-while True:
-    button_right.when_pressed = video_right
-    button_up.when_pressed = video_up
-    button_down.when_pressed = video_down
-    button_left.when_pressed = video_left
+button_right.when_pressed = video_right
+button_up.when_pressed = video_up
+button_down.when_pressed = video_down
+button_left.when_pressed = video_left
+
 pause()
 
 
