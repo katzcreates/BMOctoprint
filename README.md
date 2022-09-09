@@ -35,6 +35,7 @@ This is a rather involved build with a fair bit of expenditure involved with a h
 - Eight (8) M3x16 screws
 - Two (2) 8x3mm Neodymium Magnets (optional)
 
+I highly recommend a keyboard you can connect to the Pi as well to make setting things up easier, however, it is not required. You can do everything on the touchscreen, but it may take a lot longer than with a keyboard!
 <br/>
 
 ### Pi Software Setup
