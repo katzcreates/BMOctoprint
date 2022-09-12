@@ -4,7 +4,7 @@ So you followed along with my [BMOctoprint](https://katzcreates.com/portfolio/bm
 
 All of the files you need to recreate my version of BMOctoprint can be found here in this repository. However, if you wish to make alterations to make BMO your own, you are encouraged to do so! You can even create forks of this repository to add your own code or altered 3D printing files. I would love to see what other versions of BMO people can make with what I have started, so please share your results if you end out taking a different approach!
 
-### The full, detailed build instructions will be coming soon!
+### The full, detailed build instructions can be found on [here on Instructables](https://www.instructables.com/Life-Sized-Talking-BMO-From-Adventure-Time-thats-A/).
 
 ## Getting Started
 
@@ -16,12 +16,14 @@ This is a rather involved build with a fair bit of expenditure involved with a h
 - [7 inch Raspberry Pi Touchscreen](https://shop.pimoroni.com/products/raspberry-pi-7-touchscreen-display-with-frame?variant=2677960835082)
    - (This is super easy to use, fits the case perfectly and allows the Pi to mount right to the back of it. It is also quite expensive and there are probably cheaper options that can work with adjustments.)
 - [Adafruit I2S Speaker Bonnet](https://shop.pimoroni.com/products/adafruit-i2s-3w-stereo-speaker-bonnet-for-raspberry-pi-mini-kit?variant=34945052618)
+- One (1) extra long 40 pin header
 - Two (2) [3 inch Speakers](https://shop.pimoroni.com/products/3-speaker-4-3w?variant=380549926)
 - Three (3) [12mm Tactile Switches](https://shop.pimoroni.com/products/tactile-switches?variant=372242669)
 - Four (4) [6mm Tactile Switches](https://shop.pimoroni.com/products/tactile-switches?variant=372242667)
 - One (1) USB-C Panel Mount (capable of power delivery, this is important!!)
 - Four (4) [USB-A Panel Mounts (2 Left Angle and 2 Right Angle)](https://www.ebay.co.uk/itm/232860372185)
 - Seven (7) 10K resistors
+- A custom [BMOctoprint PCB](https://www.pcbway.com/project/shareproject/BMOctoprint_Buttons_PCB_2d7beb47.html) or other mounting for the tactile switches
 
 ### Additional Components/Materials
 - One (1) KG of [Teal PETG filament](https://eu.polymaker.com/product/polylite-petg/?aff=44) (affiliate link)
@@ -36,6 +38,8 @@ This is a rather involved build with a fair bit of expenditure involved with a h
 - Two (2) 8x3mm Neodymium Magnets (optional)
 
 I highly recommend a keyboard you can connect to the Pi as well to make setting things up easier, however, it is not required. You can do everything on the touchscreen, but it may take a lot longer than with a keyboard!
+
+You will also require some basic electronics kit and tools such as a soldering iron, solder, a breadboard, kapton tape and a range of wiring. A 3D printer is essential as well, of course!
 <br/>
 
 ### Pi Software Setup
@@ -52,6 +56,10 @@ I recommend downloading and using the [Raspberry Pi Installer tool](https://www.
 - [Feh](https://feh.finalrewind.org/) ([Documentation](https://man.finalrewind.org/1/feh/))
 - [Octoprint](https://octoprint.org/) (NOT Octopi!) ([Install Instructions](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspberry-pi-os-debian/2337))
 
+<br/>
+<br/>
+Additional relevant instructions can be found inside the individual folders, and full detailed build instructions are on the [here on Instructables](https://www.instructables.com/Life-Sized-Talking-BMO-From-Adventure-Time-thats-A/). If I missed anything or you get stuck, please open an issue or send a message and I'll be happy to try and help!
+<br/>
 <br/>
 <br/>
 <br/>
