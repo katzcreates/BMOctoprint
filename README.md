@@ -56,9 +56,7 @@ I recommend downloading and using the [Raspberry Pi Installer tool](https://www.
 - [Feh](https://feh.finalrewind.org/) ([Documentation](https://man.finalrewind.org/1/feh/))
 - [Octoprint](https://octoprint.org/) (NOT Octopi!) ([Install Instructions](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspberry-pi-os-debian/2337))
 
-<br/>
-<br/>
-Additional relevant instructions can be found inside the individual folders, and full detailed build instructions are on the [here on Instructables](https://www.instructables.com/Life-Sized-Talking-BMO-From-Adventure-Time-thats-A/). If I missed anything or you get stuck, please open an issue or send a message and I'll be happy to try and help!
+### Additional relevant instructions can be found inside the individual folders, and full detailed build instructions are on [here on Instructables](https://www.instructables.com/Life-Sized-Talking-BMO-From-Adventure-Time-thats-A/). If I missed anything or you get stuck, please open an issue or send a message and I'll be happy to try and help!
 <br/>
 <br/>
 <br/>
